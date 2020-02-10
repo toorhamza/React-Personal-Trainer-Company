@@ -1,7 +1,7 @@
 This is the Front-End task for my Front-End Development Class I took in 2019. The Front-end is made using React and the API was provided by the teacher.
 
 # Known Bugs
-I do realize that there is an issue with the React Router in this app. The navigation is not working properly. I don't have time or motivation to look into it as this is an old project and was just made for learning purposes. Still, I will try to fix it as soon as I have some time.
+I do realize that there is an issue with the React Router in this app. The navigation is not working properly. I don't have time or motivation to look into it as this is an old project (which I am just uploading now in my Github) and was just made for learning purposes. Still, I will try to fix it as soon as I have some time.
 
 # Live Preview of Final App
 
