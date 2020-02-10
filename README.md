@@ -1,11 +1,13 @@
 This is the Front-End task for my Front-End Development Class I took in 2019. The Front-end is made using React and the API was provided by the teacher.
 
 # Known Bugs
-I do realize that there is an issue with the React Router in this app and the navigation. I don't have time to look into it as this is an old project and was just made for learning purposes. Still, I will try to fix it as soon as I have some time.
+I do realize that there is an issue with the React Router in this app. The navigation is not working properly. I don't have time or motivation to look into it as this is an old project and was just made for learning purposes. Still, I will try to fix it as soon as I have some time.
 
 # Live Preview of Final App
 
 The live preview of this app can be found here [http://toorhamza.com/front-end-final-project-2019/](http://toorhamza.com/front-end-final-project-2019/)
+
+Please note that the first page of this app is empty. Use the NavBar to switch pages.
 
 
 <img src="https://i.imgur.com/UugdKOj.png" alt="project preview"/>
